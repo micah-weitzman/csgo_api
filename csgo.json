@@ -288,6 +288,45 @@
 			"id": "26",
 			"stats": {}
 			}
+		},
+
+		"heavy":
+		{
+			"nova":
+			{"name": "nova",
+			"id": "27",
+			"stats": {}
+			},
+
+			"xm1014":
+			{"name": "xm1014",
+			"id": "28",
+			"stats": {}
+			},
+
+			"sawed_off":
+			{"name": "sawed_off",
+			"id": "29",
+			"stats": {}
+			},
+
+			"mag_7":
+			{"name": "mag_7",
+			"id": "30",
+			"stats": {}
+			},
+
+			"m249":
+			{"name": "m249",
+			"id": "31",
+			"stats": {}
+			},
+
+			"negev":
+			{"name": "negev",
+			"id": "32",
+			"stats": {}
+			}
 		}
 	}
 }
