@@ -11,7 +11,7 @@ data = json.loads(json_data)
 def get_weapons():
 	return jsonify(data)
 
-@app.route('/api/v0.1/weapons/<string:gun_name>', methods=['GET'])
+@app.route('/api/v0.1/<string:gun_name>', methods=['GET'])
 def get_weapon_stat(gun_name):
 	for gun_type in data["weapons"]:
 		for gun in data["weapons"][gun_type]:
