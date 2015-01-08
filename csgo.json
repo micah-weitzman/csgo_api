@@ -2,10 +2,11 @@
 	"weapons": 
 	{ 
 		"pistols":
-		[
+		{
+			"glock_18":
 			{"name":"glock_18",
 			"id": "1",
-			"facts":{
+			"stats":{
 				"price": "$200",
 				"origin": "Austria",
 				"mag": "20/120",
@@ -21,10 +22,11 @@
 				"armor_penetration": "47%",
 				"penetration_power": "100"}
 			},
-		
+			
+			"p2000":
 			{"name":"p2000",
 			"id": "2",
-			"facts":{
+			"stats":{
 				"price": "$200",
 				"origin": "Genmany",
 				"mag": "13/52",
@@ -40,10 +42,11 @@
 				"armor_penetration": "50.5%",
 				"penetration_power": "100"}
 			},
-		
+			
+			"p250":
 			{"name":"p250",
 			"id": "3",
-			"facts":{
+			"stats":{
 				"price": "$300",
 				"origin": "Germany and Switzerland",
 				"mag": "13/52",
@@ -59,9 +62,10 @@
 				"penetration_power": "100"}
 			},
 
+			"usp_s":
 			{"name":"usp_s",
 			"id": "4",
-			"facts": {
+			"stats": {
 				"price": "$200",
 				"origin": "Germany",
 				"mag": "12/24",
@@ -78,9 +82,10 @@
 				"penetration_power": "100"}
 			},
 
+			"desert_eagle":
 			{"name":"desert_eagle",
 			"id":"5",
-			"facts": {
+			"stats": {
 				"price": "$700",
 				"mag": "7/35",
 				"rof": "267 RPM",
@@ -94,6 +99,6 @@
 				"armor_penetration": "93.2",
 				"penetration_power": "200"}
 			}
-		]
+		}
 	}
 }
