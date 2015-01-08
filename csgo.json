@@ -9,6 +9,7 @@
 			"stats":{
 				"price": "$200",
 				"origin": "Austria",
+				"caliber": "9mm",
 				"mag": "20/120",
 				"rof": "400 RPM",
 				"used_by_t": "yes",
@@ -29,6 +30,7 @@
 			"stats":{
 				"price": "$200",
 				"origin": "Genmany",
+				"caliber": ".375",
 				"mag": "13/52",
 				"rof": "352 RPM",
 				"used_by_t": "no",
@@ -49,6 +51,7 @@
 			"stats":{
 				"price": "$300",
 				"origin": "Germany and Switzerland",
+				"caliber": ".375",
 				"mag": "13/52",
 				"rof": "400 RPM",
 				"used_by_t": "yes",
@@ -68,6 +71,7 @@
 			"stats": {
 				"price": "$200",
 				"origin": "Germany",
+				"caliber": ".45",
 				"mag": "12/24",
 				"rof": "352 RPM",
 				"used_by_t": "no",
@@ -87,6 +91,8 @@
 			"id":"5",
 			"stats": {
 				"price": "$700",
+				"origin": "Israel",
+				"caliber": ".50",
 				"mag": "7/35",
 				"rof": "267 RPM",
 				"used_by_t": "yes",
@@ -98,6 +104,26 @@
 				"accurate_range": "35m",
 				"armor_penetration": "93.2",
 				"penetration_power": "200"}
+			},
+
+			"dual_barettas":
+			{"name":"dual_barettas",
+			"id": "6",
+			"stats": {
+				"price":"$500",
+				"origin":"Italy",
+				"caliber": "9mm",
+				"mag": "30/120",
+				"rof": "500 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.8 seconds",
+				"counter_part": "five-seven",
+				"movement_speed": "240",
+				"kill_award": "$300",
+				"recoil": "18/26",
+				"accurate_range":"24m",
+				"penetration_power":"100"}
 			}
 		}
 	}
