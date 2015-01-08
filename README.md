@@ -1,7 +1,9 @@
-# csgo_api
+# CS:GO API
 And API for all the weapons in Counter Strike Global Offensive 
 
 *this is still a work in progress*
+
+Expect more soon
 
 ## How to Use
 To use API put weapon in url after version number  
