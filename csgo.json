@@ -219,7 +219,75 @@
 			"id": "15",
 			"stats":{}
 			}
+		},
 
+		"rifles":
+		{
+			"galil":
+			{"name": "galil",
+			"id": "16",
+			"stats": {}
+			},
+
+			"famas": 
+			{"name": "famas",
+			"id": "17",
+			"stats": {}
+			},
+
+			"ak47":
+			{"name":"ak47",
+			"id": "18",
+			"stats": {}
+			},
+
+			"m4A4":
+			{"name": "m4A4",
+			"id": "19",
+			"stats": {}
+			},
+
+			"m4a1s":
+			{"name": "m4a1s",
+			"id": "20",
+			"stats": {}
+			},
+
+			"ssg_08":
+			{"name": "ssg_08",
+			"id": "21",
+			"stats": {}
+			},
+
+			"sg_553":
+			{"name": "sg_553",
+			"id": "22",
+			"stats": {}
+			},
+
+			"aug":
+			{"name": "aug",
+			"id": "23",
+			"stats": {}
+			},
+
+			"awp":
+			{"name": "awp",
+			"id": "24",
+			"stats": {}
+			},
+
+			"g3sg1":
+			{"name": "awp",
+			"id": "25",
+			"stats": {}
+			},
+
+			"scar_20":
+			{"name": "scar_20",
+			"id": "26",
+			"stats": {}
+			}
 		}
 	}
 }
