@@ -17,6 +17,7 @@ def get_weapon_stat(gun_name):
 		for gun in data["weapons"][gun_type]:
 			if gun_name == gun:
 				return jsonify(data["weapons"][gun_type][gun])
+				
 
 
 if __name__ == '__main__':

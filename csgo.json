@@ -163,7 +163,63 @@
 
 		"smg":
 		{
-			
+			"mac_10":
+			{"name": "mac_10",
+			"id": "10",
+			"stats":{
+				"price": "$1050",
+				"origin": "USA",
+				"caliber": ".45",
+				"mag": "30/100",
+				"rof": "800 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "2.6 seconds",
+				"kill_award": "$600",
+				"accurate_range": "15m"}
+			},
+
+			"mp9":
+			{"name":"mp9",
+			"id": "11",
+			"stats":{
+				"price": "$1250",
+				"origin": "Switzerland",
+				"caliber": "9mm",
+				"mag": "30/120",
+				"rof": "857 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "2.1 seconds",
+				"movement_speed": "240",
+				"kill_award": "$600",
+				"accurate_range": "15m"}
+			},
+
+			"mp7": 
+			{"name": "mp7",
+			"id": "12",
+			"stats":{}
+			},
+
+			"ump_45": 
+			{"name":"ump_45",
+			"id": "13",
+			"stats":{}
+			},
+
+			"pp_bizon":
+			{"name":"pp_bizon",
+			"id": "14",
+			"stats":{}
+			},
+
+			"p90": 
+			{"name": "p90",
+			"id": "15",
+			"stats":{}
+			}
+
 		}
 	}
 }
