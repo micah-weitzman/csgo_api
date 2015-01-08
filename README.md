@@ -5,7 +5,7 @@ And API for all the weapons in Counter Strike Global Offensive
 
 ## How to Use
 To use API put weapon in url after version number  
-Example: `/api/v0.1/p250' would return
+Example: `/api/v0.1/p250` would return
 ```
 {
   "id": "3", 
@@ -25,3 +25,5 @@ Example: `/api/v0.1/p250' would return
   }
 }
 ```
+## Please Note
+As I stated before this is still a work in progress. However, feel free to edit and commit new changes to improve the quality of the API. You may also take the code, work with it, and even profit from it as long as some credit is clearly given. 
