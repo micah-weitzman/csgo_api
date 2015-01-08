@@ -1,0 +1,99 @@
+{ 
+	"weapons": 
+	{ 
+		"pistols":
+		[
+			{"name":"glock_18",
+			"id": "1",
+			"facts":{
+				"price": "$200",
+				"origin": "Austria",
+				"mag": "20/120",
+				"rof": "400 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "2.2 seconds",
+				"counter_part": "P2000 and USP-S",
+				"movement_speed": "250",
+				"kill_award": "$300",
+				"recoil": "22/26",
+				"accurate_range": "28m",
+				"armor_penetration": "47%",
+				"penetration_power": "100"}
+			},
+		
+			{"name":"p2000",
+			"id": "2",
+			"facts":{
+				"price": "$200",
+				"origin": "Genmany",
+				"mag": "13/52",
+				"rof": "352 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "2.2 seconds",
+				"counter_part": "Glock 18",
+				"movement_speed": "240",
+				"kill_award": "$300",
+				"recoil": "19/26",
+				"accurate_range": "31m",
+				"armor_penetration": "50.5%",
+				"penetration_power": "100"}
+			},
+		
+			{"name":"p250",
+			"id": "3",
+			"facts":{
+				"price": "$300",
+				"origin": "Germany and Switzerland",
+				"mag": "13/52",
+				"rof": "400 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "2.2 seconds",
+				"movement_speed": "240",
+				"kill_award": "$300",
+				"recoil": "18/26",
+				"accurate_range": "19m",
+				"armor_penetration": "77.65%",
+				"penetration_power": "100"}
+			},
+
+			{"name":"usp_s",
+			"id": "4",
+			"facts": {
+				"price": "$200",
+				"origin": "Germany",
+				"mag": "12/24",
+				"rof": "352 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "2.2 seconds",
+				"counter_part": "Glock 18",
+				"movement_speed": "240",
+				"kill_award": "$300",
+				"recoil": "18/26",
+				"accurate_range": "29m",
+				"armor_penetration": "50.5%",
+				"penetration_power": "100"}
+			},
+
+			{"name":"desert_eagle",
+			"id":"5",
+			"facts": {
+				"price": "$700",
+				"mag": "7/35",
+				"rof": "267 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "2.2 seconds",
+				"movement_speed": "230",
+				"kill_award": "$300",
+				"recoil": "3/26",
+				"accurate_range": "35m",
+				"armor_penetration": "93.2",
+				"penetration_power": "200"}
+			}
+		]
+	}
+}
