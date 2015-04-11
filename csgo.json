@@ -199,25 +199,69 @@
 			"mp7": 
 			{"name": "mp7",
 			"id": "12",
-			"stats":{}
+			"stats":{
+				"price": "$1700",
+				"origin": "Germany",
+				"caliber": "9mm",
+				"mag": "30/120",
+				"rof": "800 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.1 seconds",
+				"movement_speed": "220",
+				"kill_award": "$600",
+				"accurate_range": "17m"}
 			},
 
 			"ump_45": 
 			{"name":"ump_45",
 			"id": "13",
-			"stats":{}
+			"stats":{
+				"price": "$1200",
+				"origin": "Germany",
+				"caliber": ".45",
+				"mag": "25/100",
+				"rof": "666 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.5 seconds",
+				"movement_speed": "230",
+				"kill_award": "$600",
+				"accurate_range": "15m"}
 			},
 
 			"pp_bizon":
 			{"name":"pp_bizon",
 			"id": "14",
-			"stats":{}
+			"stats":{
+				"price": "$1400",
+				"origin": "Russia",
+				"caliber": "9mm",
+				"mag": "64/120",
+				"rof": "750 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "2.4 seconds",
+				"movement_speed": "240",
+				"kill_award": "$600",
+				"accurate_range": "14m"}
 			},
 
 			"p90": 
 			{"name": "p90",
 			"id": "15",
-			"stats":{}
+			"stats":{
+				"price": "$2350",
+				"origin": "Belgium",
+				"caliber": "5.7",
+				"mag": "50/100",
+				"rof": "857 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.3 seconds",
+				"movement_speed": "230",
+				"kill_award": "$300",
+				"accurate_range": "15m"}
 			}
 		},
 
