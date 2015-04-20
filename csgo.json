@@ -270,67 +270,199 @@
 			"galil":
 			{"name": "galil",
 			"id": "16",
-			"stats": {}
+			"stats":{
+				"price": "$2000",
+				"origin": "Israel",
+				"caliber": "5.56",
+				"mag": "35/90",
+				"rof": "666 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "3.0 seconds",
+				"movement_speed": "210",
+				"kill_award": "$300",
+				"accurate_range": "23m"}
+				}
 			},
 
 			"famas": 
 			{"name": "famas",
 			"id": "17",
-			"stats": {}
+			"stats":{
+				"price": "$2250",
+				"origin": "France",
+				"caliber": "5.56",
+				"mag": "25/90",
+				"rof": "666 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "3.3 seconds",
+				"movement_speed": "220",
+				"kill_award": "$300",
+				"accurate_range": "21m"}
+				}
 			},
 
 			"ak47":
 			{"name":"ak47",
 			"id": "18",
-			"stats": {}
+			"stats":{
+				"price": "$2500",
+				"origin": "Soviet Union",
+				"caliber": "7.62",
+				"mag": "30/90",
+				"rof": "600 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "2.5 seconds",
+				"movement_speed": "221",
+				"kill_award": "$300",
+				"accurate_range": "31m"}
+				}
 			},
 
 			"m4A4":
 			{"name": "m4A4",
 			"id": "19",
-			"stats": {}
+			"stats":{
+				"price": "$3100",
+				"origin": "United States",
+				"caliber": "5.56",
+				"mag": "30/90",
+				"rof": "666 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "3.1 seconds",
+				"movement_speed": "225",
+				"kill_award": "$300",
+				"accurate_range": "39m"}
+				}
 			},
 
 			"m4a1s":
 			{"name": "m4a1s",
 			"id": "20",
-			"stats": {}
+			"stats":{
+				"price": "$3200",
+				"origin": "United States",
+				"caliber": "5.56",
+				"mag": "20/40",
+				"rof": "666 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "3.1 seconds",
+				"movement_speed": "225",
+				"kill_award": "$300",
+				"accurate_range": "39m"}
+				}
 			},
 
 			"ssg_08":
 			{"name": "ssg_08",
 			"id": "21",
-			"stats": {}
+			"stats":{
+				"price": "$1700",
+				"origin": "Austria",
+				"caliber": "7.62",
+				"mag": "10/90",
+				"rof": "48 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.7 seconds",
+				"movement_speed": "230",
+				"kill_award": "$300",
+				"accurate_range": "66m"}
+				}
 			},
 
 			"sg_553":
 			{"name": "sg_553",
 			"id": "22",
-			"stats": {}
+			"stats":{
+				"price": "$3000",
+				"origin": "Switzerland",
+				"caliber": "5.56",
+				"mag": "30/90",
+				"rof": "666 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "2.8 seconds",
+				"movement_speed": "210",
+				"kill_award": "$300",
+				"accurate_range": "50m"}
+				}
 			},
 
 			"aug":
 			{"name": "aug",
 			"id": "23",
-			"stats": {}
+			"stats":{
+				"price": "$3300",
+				"origin": "Austria",
+				"caliber": "5.56",
+				"mag": "30/90",
+				"rof": "666 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "3.8 seconds",
+				"movement_speed": "221",
+				"kill_award": "$300",
+				"accurate_range": "49m"}
+				}
 			},
 
 			"awp":
 			{"name": "awp",
 			"id": "24",
-			"stats": {}
+			"stats":{			
+				"price": "$4750",
+				"origin": "United Kingdom",
+				"caliber": ".338",
+				"mag": "10/30",
+				"rof": "41 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "yes",
+				"reload_time": "3.6 seconds",
+				"movement_speed": "200",
+				"kill_award": "$100",
+				"accurate_range": "96m"}
+				}
 			},
 
 			"g3sg1":
-			{"name": "awp",
+			{"name": "g3sg1",
 			"id": "25",
-			"stats": {}
+			"stats":{			
+				"price": "$5000",
+				"origin": "Germany",
+				"caliber": "7.62",
+				"mag": "20/90",
+				"rof": "240 RPM",
+				"used_by_t": "yes",
+				"used_by_ct": "no",
+				"reload_time": "4.7 seconds",
+				"movement_speed": "215",
+				"kill_award": "$300",
+				"accurate_range": "92m"}
+				}
 			},
 
 			"scar_20":
 			{"name": "scar_20",
 			"id": "26",
-			"stats": {}
+			"stats":{			
+				"price": "$5000",
+				"origin": "Belgium",
+				"caliber": "7.62",
+				"mag": "20/90",
+				"rof": "240 RPM",
+				"used_by_t": "no",
+				"used_by_ct": "yes",
+				"reload_time": "3.1 seconds",
+				"movement_speed": "215",
+				"kill_award": "$300",
+				"accurate_range": "92m"}
+				}
 			}
 		},
 
