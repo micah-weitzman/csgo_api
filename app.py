@@ -17,7 +17,12 @@ def get_weapon_stat(gun_name):
 		for gun in data["weapons"][gun_type]:
 			if gun_name == gun:
 				return jsonify(data["weapons"][gun_type][gun])
-				
+
+@app.route('/api/v0.1/id/<int:id>', methods=['GET'])
+def get_weapon_by_id(id):
+	for gun_type in data["weapons"]:
+		for gun in data["weapons"][gun_type]:
+			return gun
 
 
 if __name__ == '__main__':
